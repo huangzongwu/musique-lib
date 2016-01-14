@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="libs/alacdecoder-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-beanutils-1.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-configuration-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-digester-1.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-lang-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/cuelib-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/discogs-0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jaad-0.7.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jaudiotagger-2.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/javaFlacEncoder-0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/javalayer-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jflac-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jkeymaster-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jmac-1.74.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jna-3.2.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jorbis-0.0.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/junit-4.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/last.fm-bindings-0.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/tta-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/vorbis-java-1.0.0-beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/wavpack-1.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
